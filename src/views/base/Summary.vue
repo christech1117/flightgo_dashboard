@@ -1,5 +1,5 @@
 <template>
-  <div id="summart">
+  <div id="summary">
     <div class="animated fadeIn">
     </div>
   </div>
